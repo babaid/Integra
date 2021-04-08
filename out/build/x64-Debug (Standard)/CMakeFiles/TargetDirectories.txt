@@ -1,0 +1,5 @@
+C:/Users/debab/cpp/Integra/out/build/x64-Debug (Standard)/CMakeFiles/edit_cache.dir
+C:/Users/debab/cpp/Integra/out/build/x64-Debug (Standard)/CMakeFiles/rebuild_cache.dir
+C:/Users/debab/cpp/Integra/out/build/x64-Debug (Standard)/Integra/CMakeFiles/Integra.dir
+C:/Users/debab/cpp/Integra/out/build/x64-Debug (Standard)/Integra/CMakeFiles/edit_cache.dir
+C:/Users/debab/cpp/Integra/out/build/x64-Debug (Standard)/Integra/CMakeFiles/rebuild_cache.dir
