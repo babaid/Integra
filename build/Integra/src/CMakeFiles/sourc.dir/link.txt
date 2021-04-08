@@ -1,2 +1,0 @@
-C:\mingw64\bin\ar.exe qc libsourc.a CMakeFiles/sourc.dir/Integra.cpp.obj
-C:\mingw64\bin\ranlib.exe libsourc.a
