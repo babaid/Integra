@@ -1,0 +1,5 @@
+C:/Program Files (x86)/Integra/lib/libIntegra.dll.a
+C:/Program Files (x86)/Integra/bin/libIntegra.dll
+C:/Program Files (x86)/Integra/include/Integra.h
+C:/Program Files (x86)/Integra/share/cmake/IntegraConfig.cmake
+C:/Program Files (x86)/Integra/share/cmake/IntegraConfig-debug.cmake

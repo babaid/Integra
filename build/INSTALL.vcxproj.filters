@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\debab\cpp\Integra\build\CMakeFiles\2f7685cb0fea2bedaca2d26923ee4327\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{C94E98D6-A1A7-3833-A634-26868F2CB813}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,1 @@
+add_library(sourc Integra.cpp ../include/Integra.h)

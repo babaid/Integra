@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/debab/cpp/Integra/Integra/include/Integra.h
+functional
+-
+utility
+-
+vector
+-
+random
+-
+
+C:/Users/debab/cpp/Integra/Integra/test/test.cpp
+iostream
+-
+cmath
+-
+chrono
+-
+thread
+-
+../include/integra.h
+C:/Users/debab/cpp/Integra/Integra/include/Integra.h
+
